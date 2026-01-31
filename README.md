@@ -330,7 +330,7 @@ This project is licensed under Apache License 2.0.
 
 ## 📞 Support
 
-- GitHub Issues: [Create an issue](https://github.com/lnvArchitect/Solana-Conditional-Tokens-Framework/issues)
+- GitHub Issues: [Create an issue](https://github.com/DSB-117/Solana-Conditional-Tokens-Framework/issues)
 
 ## 🗺️ Roadmap
 
